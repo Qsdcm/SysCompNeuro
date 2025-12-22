@@ -1,0 +1,1 @@
+python src/eval.py --model_type pc --p_oddball 0.1 --do_sweep --output_dir outputs

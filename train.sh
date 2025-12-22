@@ -1,0 +1,1 @@
+python src/train.py --model_type pc --epochs 20 --p_oddball 0.1 --gain 1.0 --output_dir outputs
